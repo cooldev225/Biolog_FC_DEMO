@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "FC_DEMO", "FC_DEMO\FC_DEMO.rptproj", "{76F3DF48-C155-43B5-8A7C-3706F46CD693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76F3DF48-C155-43B5-8A7C-3706F46CD693}.Debug|Default.ActiveCfg = Debug
+		{76F3DF48-C155-43B5-8A7C-3706F46CD693}.Debug|Default.Build.0 = Debug
+		{76F3DF48-C155-43B5-8A7C-3706F46CD693}.Debug|Default.Deploy.0 = Debug
+		{76F3DF48-C155-43B5-8A7C-3706F46CD693}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{76F3DF48-C155-43B5-8A7C-3706F46CD693}.DebugLocal|Default.Build.0 = DebugLocal
+		{76F3DF48-C155-43B5-8A7C-3706F46CD693}.Release|Default.ActiveCfg = Release
+		{76F3DF48-C155-43B5-8A7C-3706F46CD693}.Release|Default.Build.0 = Release
+		{76F3DF48-C155-43B5-8A7C-3706F46CD693}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84BEFAAA-D3F6-49F6-9362-B879AAFCE17B}
+	EndGlobalSection
+EndGlobal

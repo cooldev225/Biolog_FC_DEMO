@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SDS_DEMO">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=Biolog_DEMO</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>13497db2-9d60-4f67-beaf-96be0f11cc98</DataSourceID>
+</RptDataSource>
